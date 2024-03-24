@@ -1,0 +1,13 @@
+# ninja log v5
+2	516	7326255218647258	CMakeFiles/lab1_1.dir/main.cpp.obj	37d6cae395a6740c
+6	311	7326258785754884	build.ninja	e6dabedf0e19c4cc
+11	550	7325746322168659	CMakeFiles/lab1_1.dir/NewVector.cpp.obj	f151d03349fcc0a8
+517	654	7326255220048808	lab1_1.exe	645ea9b02dae66be
+8	514	7326255218627318	CMakeFiles/lab1_1.dir/VectorNew.cpp.obj	f32b38359a72dd83
+4	692	7326281128869869	CMakeFiles/lab1_1.dir/main.cpp.obj	37d6cae395a6740c
+18	753	7326281129489453	CMakeFiles/lab1_1.dir/VectorNew.cpp.obj	f32b38359a72dd83
+753	919	7326281131139535	lab1_1.exe	645ea9b02dae66be
+4	545	7329729300962899	CMakeFiles/lab1_1.dir/VectorNew.cpp.obj	f32b38359a72dd83
+12	486	7329729444311607	CMakeFiles/lab1_1.dir/main.cpp.obj	37d6cae395a6740c
+3	531	7329729444778123	CMakeFiles/lab1_1.dir/VectorNew.cpp.obj	f32b38359a72dd83
+531	681	7329729446263728	lab1_1.exe	645ea9b02dae66be
